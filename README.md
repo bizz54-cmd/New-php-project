@@ -1,7 +1,7 @@
 # New-php-project
 Student Registration App in PHP 
-Name: Nya John ude
-Matric Number: 24/D/CSC/012
+Name: Daniel Isuk John
+Matric Number: 23/MTH/004T
 Course Code : CSC 281
 Assignment Title: Student App with PHP
 Instruction on How to run:
